@@ -1,0 +1,9 @@
+name: BlockRegenerator
+version: ${project.version}
+main: us.siriusteam.blockregenerator.BlockRegenerator
+api-version: 1.13
+prefix: BR
+softdepend: [WorldGuard]
+authors: [1024TB]
+description: Plugin para regeneracion de bloques.
+website: siriusteam.us

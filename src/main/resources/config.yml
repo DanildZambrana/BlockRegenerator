@@ -1,0 +1,31 @@
+lang: "es.yml"
+
+Regions:
+  '1':
+    region: "mina"
+    blocks:
+      '1':
+        block:
+          id: 1
+          data: 0
+        replace:
+          id: 2
+          data: 0
+      '2':
+        block:
+          id: 1
+          data: 0
+        replace:
+            id: 2
+            data: 0
+  '2':
+    region: "mina2"
+    blocks:
+      '1':
+        block: 1
+        replace: 4
+      '2':
+        block: 3
+        replace: 5
+
+TimeInSeconds: "4"
